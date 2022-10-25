@@ -45,7 +45,7 @@ const links = [
     name: "Telegram",
   },
   {
-    url: "https://twitter.com/rejuvenaterjv",
+    url: "https://twitter.com/rejuvenatefin",
     icon: "mdi:twitter",
     name: "Twitter",
   },
